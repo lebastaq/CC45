@@ -1,4 +1,4 @@
-update=05/07/2020 15:37:48
+update=05/07/2020 15:46:23
 version=1
 last_client=kicad
 [general]
@@ -80,8 +80,8 @@ Parallel_tracks_too_close=error
 Tracks_crossing=error
 Track_too_close_to_board_edge=error
 Via_too_close_to_board_edge=error
-Pad_too_close_to_board_edge=error
-Pads_too_close=error
+Pad_too_close_to_board_edge=ignore
+Pads_too_close=ignore
 Pad_too_close_to_copper_item=error
 Copper_areas_intersect=error
 Copper_areas_too_close=error
@@ -90,7 +90,7 @@ Via_is_not_connected=warning
 Track_has_unconnected_end=warning
 Hole_too_close_to_pad=error
 Hole_too_close_to_track=error
-Drilled_holes_too_close_together=error
+Drilled_holes_too_close_together=ignore
 Track_width_too_small=error
 Track_width_too_large=error
 Via_size_too_small=error
