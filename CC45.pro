@@ -1,4 +1,4 @@
-update=05/07/2020 19:16:19
+update=05/07/2020 19:54:23
 version=1
 last_client=kicad
 [general]
@@ -40,11 +40,11 @@ version=1
 version=1
 [PcbFrame]
 version=1
-[ModEditFrame]
-version=1
 [sheetnames]
 1=1ad36dc6-b872-4999-aa0a-e0b25522e686:
 2=00000000-0000-0000-0000-00005efb701e:matrix
+[ModEditFrame]
+version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
