@@ -6,4 +6,5 @@
   (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/custom")(options "")(descr ""))
   (lib (name "mx_rgb")(type "KiCad")(uri "${KIPRJMOD}/mx_rgb.pretty")(options "")(descr ""))
   (lib (name "CC45")(type "KiCad")(uri "C:/Users/Admin/Documents/GitHub/CC45.pretty")(options "")(descr ""))
+  (lib (name "libs")(type "KiCad")(uri "${KIPRJMOD}/libs")(options "")(descr ""))
 )

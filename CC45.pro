@@ -1,4 +1,4 @@
-update=05/07/2020 13:35:44
+update=05/07/2020 14:56:05
 version=1
 last_client=kicad
 [general]
@@ -133,7 +133,8 @@ Unresolved_text_variable=error
 CopperEdgeClearance=0.01
 TrackWidth1=0.25
 TrackWidth2=0.2
-TrackWidth3=0.38
+TrackWidth3=0.3
+TrackWidth4=0.38
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
@@ -170,7 +171,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.051
 SolderMaskMinWidth=0.25
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
