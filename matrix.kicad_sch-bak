@@ -2667,7 +2667,7 @@
     (uuid "00000000-0000-0000-0000-00005f014d4e")
     (property "Reference" "SW44" (id 0) (at 121.92 90.551 0))
     (property "Value" "K36" (id 1) (at 121.92 92.8624 0))
-    (property "Footprint" "mx_rgb:ChocMx_Socket" (id 2) (at 121.92 92.71 0)
+    (property "Footprint" "mx_rgb:mx_with_stabilizer" (id 2) (at 121.92 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 121.92 92.71 0)

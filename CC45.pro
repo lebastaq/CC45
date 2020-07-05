@@ -1,4 +1,4 @@
-update=04/07/2020 23:11:37
+update=05/07/2020 13:35:44
 version=1
 last_client=kicad
 [general]
@@ -34,14 +34,17 @@ ERC_CheckBusDriverConflicts=1
 ERC_CheckBusEntryConflicts=1
 ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
-[ModEditFrame]
-version=1
 [SchematicFrame]
 version=1
 [LibeditFrame]
 version=1
 [PcbFrame]
 version=1
+[ModEditFrame]
+version=1
+[sheetnames]
+1=1ad36dc6-b872-4999-aa0a-e0b25522e686:
+2=00000000-0000-0000-0000-00005efb701e:matrix
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -357,6 +360,3 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[sheetnames]
-1=aefb29ad-230e-461e-92b5-bab0569538a6:
-2=00000000-0000-0000-0000-00005efb701e:matrix
