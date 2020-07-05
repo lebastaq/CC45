@@ -1,4 +1,4 @@
-update=05/07/2020 20:33:57
+update=05/07/2020 22:33:44
 version=1
 last_client=kicad
 [general]
@@ -36,15 +36,15 @@ ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
 [SchematicFrame]
 version=1
-[LibeditFrame]
-version=1
 [PcbFrame]
-version=1
-[ModEditFrame]
 version=1
 [sheetnames]
 1=75505566-8797-4fd2-b98c-c1a523bcff79:
 2=00000000-0000-0000-0000-00005efb701e:matrix
+[ModEditFrame]
+version=1
+[LibeditFrame]
+version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
